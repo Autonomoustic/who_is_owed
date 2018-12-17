@@ -9,7 +9,3 @@ instructions
  - howMuchDoIOwe(data, 'Same', 'Ola')
 
  - howMuchDoIOwe(data, 'Kelly', 'Tommen')
-
- I was unable to complete the fourth deliverable i'm afraid but I would love some feedback on my code as well as how I could have completed all deliverables.
-
- Thanks!
